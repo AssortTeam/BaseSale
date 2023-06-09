@@ -1,0 +1,34 @@
+# !SESSION 2023-06-09 09:23:01.109
+# version: 1.1
+# verbose: true
+# The following option strings are specified for this debug session:
+# 	com.e1c.g5.v8.dt.platform.standaloneserver.wst.core/debug=true
+# 	org.eclipse.core.runtime/perf/success=true
+# 	com._1c.g5.v8.dt.compare/debug=true
+# 	com.e1c.g5.v8.dt.platform.standaloneserver.core/debug=true
+# 	com._1c.g5.v8.dt.platform.services.core/trace/infobase/resource-processing=true
+# 	com.e1c.g5.v8.dt.platform.cloud.core/trace/cloud/sync/console=true
+# 	com.e1c.g5.v8.dt.platform.cloud.core/debug=true
+# 	com._1c.g5.v8.dt.platform.services.core/trace/infobase/load=true
+# 	org.eclipse.core.runtime/debug=true
+# 	org.eclipse.core.runtime/perf=true
+# 	com.e1c.g5.v8.dt.platform.standaloneserver.core/trace=true
+# 	org.eclipse.wst.server.core/severe=true
+# 	com._1c.g5.v8.dt.platform.services.core/trace/platform=true
+# 	com.e1c.g5.v8.dt.platform.cloud.core/trace/cloud/process=true
+# 	com.e1c.g5.v8.dt.platform.cloud.core/trace/cloud/tunnel/console=true
+# 	com._1c.g5.v8.dt.platform.services.core/trace/infobase/load/object-resolve=true
+# 	com.e1c.g5.v8.dt.platform.cloud.wst.core/debug=true
+# 	com._1c.g5.v8.dt.platform.services.core/preferences/keep-temp-files/fail=true
+# 	com.e1c.g5.v8.dt.platform.cloud.wst.core/trace=true
+# 	com._1c.g5.v8.dt.platform.services.core/debug=true
+# 	com._1c.g5.v8.dt.compare/trace/git-merge=true
+# 	com.e1c.g5.v8.dt.platform.standaloneserver.wst.core/trace=true
+# 	com.e1c.g5.v8.dt.platform.cloud.core/trace/cloud=true
+| pool-12-thread-1 | 2023-06-09 09:23:01.109 | com._1c.g5.v8.dt.platform.services.core | /trace/platform | com._1c.g5.v8.dt.internal.platform.services.core.PlatformServicesCore | trace | 197 | Executing 1C:Enterprise runtime command: C:\Program Files\1cv8\8.3.21.1622\bin\1cv8.exe DESIGNER /F D:\Базы 1С\BaseSale /DumpDBCfgList -AllExtensions /WA + /Out C:\Users\Admin-PC\AppData\Local\Temp\1cedt\1cv8-12594778966712978003.log |
+| pool-13-thread-1 | 2023-06-09 09:23:04.040 | com._1c.g5.v8.dt.platform.services.core | /trace/platform | com._1c.g5.v8.dt.internal.platform.services.core.PlatformServicesCore | trace | 197 | Executing 1C:Enterprise runtime command: C:\Program Files\1cv8\8.3.21.1622\bin\1cv8.exe DESIGNER /F D:\Базы 1С\BaseSale /DumpConfigToFiles C:\Users\Admin-PC\AppData\Local\Temp\1cedt\xml-import-77667 -format Hierarchical /WA + /Out C:\Users\Admin-PC\AppData\Local\Temp\1cedt\1cv8-3193616020887985718.log |
+| Worker-3: Project association | 2023-06-09 09:23:09.339 | com._1c.g5.v8.dt.platform.services.core | /trace/platform | com._1c.g5.v8.dt.internal.platform.services.core.PlatformServicesCore | trace | 197 | Opening designer session with: file:///C:/Program%20Files/1cv8/8.3.21.1622/bin/ |
+| Worker-3: Project association | 2023-06-09 09:23:09.341 | com._1c.g5.v8.dt.platform.services.core | /trace/platform | com._1c.g5.v8.dt.internal.platform.services.core.PlatformServicesCore | trace | 197 | Designer agent starting: C:\Program Files\1cv8\8.3.21.1622\bin\1cv8.exe DESIGNER /F D:\Базы 1С\BaseSale /AgentMode /AgentSSHHostKeyAuto /AgentBaseDir C:\Users\Admin-PC\AppData\Local\Temp\1cedt\ssh-85540 /AgentPort 60831 /Out C:\Users\Admin-PC\AppData\Local\Temp\1cedt\1cv8-17283616735866037665.log -NoTruncate |
+| Worker-3: Project association | 2023-06-09 09:23:10.345 | com._1c.g5.v8.dt.platform.services.core | /trace/platform | com._1c.g5.v8.dt.internal.platform.services.core.PlatformServicesCore | trace | 197 | Trying to connect to 1C:Enterprise address ssh://localhost:60831/... |
+| Worker-3: Project association | 2023-06-09 09:23:10.593 | com._1c.g5.v8.dt.platform.services.core | /trace/platform | com._1c.g5.v8.dt.internal.platform.services.core.PlatformServicesCore | trace | 197 | Openning 1C:Enterprise connection with localhost:60831... |
+| Worker-3: Project association | 2023-06-09 09:23:10.624 | com._1c.g5.v8.dt.platform.services.core | /trace/platform | com._1c.g5.v8.dt.internal.platform.services.core.PlatformServicesCore | trace | 197 | Trying to get connection directory for agent base direcotory "C:\Users\Admin-PC\AppData\Local\Temp\1cedt\ssh-85540" and username "".. |

@@ -1,0 +1,138 @@
+!SESSION 2023-06-09 09:21:54.780 -----------------------------------------------
+eclipse.buildId=2021.3.4.10
+java.version=11.0.9
+java.vendor=BellSoft
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_RU
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.company1c.link.ide.edt 1 0 2023-06-09 09:22:04.436
+!MESSAGE iLOG: 1C:Link addon is initializing. Web config state is in C:\GitBaseSale\.metadata\.plugins\com.company1c.link.ide.edt
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2023-06-09 09:22:05.033
+!MESSAGE java.vm.name=OpenJDK 64-Bit Client VM
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2023-06-09 09:22:05.033
+!MESSAGE java.vm.info=mixed mode
+
+!ENTRY com._1c.g5.v8.dt.platform.services.core 1 0 2023-06-09 09:22:13.836
+!MESSAGE Trying to re-establish all non-closed SSH connecton...
+
+!ENTRY org.eclipse.ui.navigator.resources 4 0 2023-06-09 09:22:17.947
+!MESSAGE Required filter org.eclipse.ui.navigator.resources.filters.workingSet is not present. Working set support will not function correctly.
+
+!ENTRY org.eclipse.ui.navigator.resources 4 0 2023-06-09 09:22:17.947
+!MESSAGE 
+
+!ENTRY com._1c.g5.v8.dt.platform.services.ui 1 0 2023-06-09 09:23:04.026
+!MESSAGE Project BaseSale is being imported from infobase
+
+!ENTRY com._1c.g5.v8.dt.platform.services.core 1 0 2023-06-09 09:23:05.799
+!MESSAGE ConfigDumpInfo.xml is stored for "BaseSale"
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2023-06-09 09:23:07.979
+!MESSAGE Project context is being started: BaseSale (CLEAN_IMPORT)
+
+!ENTRY com.e1c.g5.v8.dt.check 1 0 2023-06-09 09:23:08.068
+!MESSAGE The attempt to change processor class com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChangeProcessor for the change type class com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChange which is already served by the processor com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChangeProcessor@20a40baf
+
+!ENTRY com.e1c.g5.v8.dt.check 1 0 2023-06-09 09:23:08.068
+!MESSAGE The attempt to change processor class com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChangeProcessor for the change type class com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChange which is already served by the processor com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChangeProcessor@20a40baf
+
+!ENTRY com.e1c.g5.v8.dt.check 1 0 2023-06-09 09:23:08.068
+!MESSAGE The attempt to change processor class com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChangeProcessor for the change type class com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChange which is already served by the processor com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChangeProcessor@20a40baf
+
+!ENTRY com.e1c.g5.v8.dt.check 1 0 2023-06-09 09:23:08.068
+!MESSAGE The attempt to change processor class com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChangeProcessor for the change type class com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChange which is already served by the processor com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChangeProcessor@20a40baf
+
+!ENTRY com.e1c.g5.v8.dt.check 1 0 2023-06-09 09:23:08.068
+!MESSAGE The attempt to change processor class com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChangeProcessor for the change type class com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChange which is already served by the processor com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChangeProcessor@20a40baf
+
+!ENTRY com.e1c.g5.v8.dt.check 1 0 2023-06-09 09:23:08.068
+!MESSAGE The attempt to change processor class com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChangeProcessor for the change type class com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChange which is already served by the processor com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChangeProcessor@20a40baf
+
+!ENTRY com.e1c.g5.v8.dt.check 1 0 2023-06-09 09:23:08.069
+!MESSAGE The attempt to change processor class com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChangeProcessor for the change type class com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChange which is already served by the processor com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChangeProcessor@20a40baf
+
+!ENTRY com.e1c.g5.v8.dt.check 1 0 2023-06-09 09:23:08.069
+!MESSAGE The attempt to change processor class com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChangeProcessor for the change type class com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChange which is already served by the processor com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChangeProcessor@20a40baf
+
+!ENTRY com.e1c.g5.v8.dt.check 1 0 2023-06-09 09:23:08.069
+!MESSAGE The attempt to change processor class com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChangeProcessor for the change type class com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChange which is already served by the processor com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChangeProcessor@20a40baf
+
+!ENTRY com.e1c.g5.v8.dt.check 1 0 2023-06-09 09:23:08.445
+!MESSAGE The attempt to change processor class com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChangeProcessor for the change type class com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChange which is already served by the processor com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChangeProcessor@20a40baf
+
+!ENTRY com.e1c.g5.v8.dt.check 1 0 2023-06-09 09:23:08.445
+!MESSAGE The attempt to change processor class com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChangeProcessor for the change type class com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChange which is already served by the processor com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChangeProcessor@20a40baf
+
+!ENTRY com.e1c.g5.v8.dt.check 1 0 2023-06-09 09:23:08.445
+!MESSAGE The attempt to change processor class com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChangeProcessor for the change type class com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChange which is already served by the processor com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChangeProcessor@20a40baf
+
+!ENTRY com.e1c.g5.v8.dt.check 1 0 2023-06-09 09:23:08.445
+!MESSAGE The attempt to change processor class com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChangeProcessor for the change type class com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChange which is already served by the processor com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChangeProcessor@20a40baf
+
+!ENTRY com.e1c.g5.v8.dt.check 1 0 2023-06-09 09:23:08.445
+!MESSAGE The attempt to change processor class com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChangeProcessor for the change type class com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChange which is already served by the processor com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChangeProcessor@20a40baf
+
+!ENTRY com.e1c.g5.v8.dt.check 1 0 2023-06-09 09:23:08.445
+!MESSAGE The attempt to change processor class com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChangeProcessor for the change type class com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChange which is already served by the processor com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChangeProcessor@20a40baf
+
+!ENTRY com.e1c.g5.v8.dt.check 1 0 2023-06-09 09:23:08.446
+!MESSAGE The attempt to change processor class com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChangeProcessor for the change type class com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChange which is already served by the processor com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChangeProcessor@20a40baf
+
+!ENTRY com.e1c.g5.v8.dt.check 1 0 2023-06-09 09:23:08.446
+!MESSAGE The attempt to change processor class com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChangeProcessor for the change type class com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChange which is already served by the processor com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChangeProcessor@20a40baf
+
+!ENTRY com.e1c.g5.v8.dt.check 1 0 2023-06-09 09:23:08.446
+!MESSAGE The attempt to change processor class com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChangeProcessor for the change type class com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChange which is already served by the processor com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChangeProcessor@20a40baf
+
+!ENTRY com.e1c.g5.v8.dt.check 1 0 2023-06-09 09:23:08.446
+!MESSAGE The attempt to change processor class com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChangeProcessor for the change type class com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChange which is already served by the processor com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChangeProcessor@20a40baf
+
+!ENTRY com.e1c.g5.v8.dt.check 1 0 2023-06-09 09:23:08.446
+!MESSAGE The attempt to change processor class com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChangeProcessor for the change type class com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChange which is already served by the processor com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChangeProcessor@20a40baf
+
+!ENTRY com.e1c.g5.v8.dt.check 1 0 2023-06-09 09:23:08.446
+!MESSAGE The attempt to change processor class com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChangeProcessor for the change type class com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChange which is already served by the processor com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChangeProcessor@20a40baf
+
+!ENTRY com.e1c.g5.v8.dt.check 1 0 2023-06-09 09:23:08.446
+!MESSAGE The attempt to change processor class com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChangeProcessor for the change type class com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChange which is already served by the processor com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChangeProcessor@20a40baf
+
+!ENTRY com.e1c.g5.v8.dt.check 1 0 2023-06-09 09:23:08.447
+!MESSAGE The attempt to change processor class com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChangeProcessor for the change type class com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChange which is already served by the processor com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChangeProcessor@20a40baf
+
+!ENTRY com.e1c.g5.v8.dt.check 1 0 2023-06-09 09:23:08.447
+!MESSAGE The attempt to change processor class com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChangeProcessor for the change type class com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChange which is already served by the processor com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChangeProcessor@20a40baf
+
+!ENTRY com.e1c.g5.v8.dt.check 1 0 2023-06-09 09:23:08.447
+!MESSAGE The attempt to change processor class com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChangeProcessor for the change type class com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChange which is already served by the processor com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChangeProcessor@20a40baf
+
+!ENTRY com.e1c.g5.v8.dt.check 1 0 2023-06-09 09:23:08.447
+!MESSAGE The attempt to change processor class com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChangeProcessor for the change type class com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChange which is already served by the processor com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChangeProcessor@20a40baf
+
+!ENTRY com.e1c.g5.v8.dt.check 1 0 2023-06-09 09:23:08.448
+!MESSAGE The attempt to change processor class com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChangeProcessor for the change type class com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChange which is already served by the processor com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChangeProcessor@20a40baf
+
+!ENTRY com.e1c.g5.v8.dt.check 1 0 2023-06-09 09:23:08.450
+!MESSAGE The attempt to change processor class com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChangeProcessor for the change type class com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChange which is already served by the processor com.e1c.v8codestyle.bsl.qfix.external.SingleVariantXtextBslModuleFix$SingleVariantModuleFixChangeProcessor@20a40baf
+
+!ENTRY com._1c.g5.v8.dt.core 1 0 2023-06-09 09:23:09.268
+!MESSAGE Project context is started: BaseSale
+
+!ENTRY org.eclipse.equinox.security 1 0 2023-06-09 09:23:10.549
+!MESSAGE New keyring password generated. 
+
+!ENTRY com._1c.g5.v8.dt.platform.services.core 1 0 2023-06-09 09:23:10.630
+!MESSAGE SSH connecton with infobase BaseSale established.
+
+!ENTRY com._1c.g5.v8.dt.platform.services.core 1 0 2023-06-09 09:23:10.630
+!MESSAGE Project "BaseSale" is connected to infobase "BaseSale"
+
+!ENTRY com._1c.g5.v8.dt.platform.services.core 1 0 2023-06-09 09:23:10.641
+!MESSAGE Synchronization data store is opened: C:\GitBaseSale\.metadata\.plugins\org.eclipse.core.resources\.projects\BaseSale\com._1c.g5.v8.dt.platform.services.core\.default\infobase-synchronization\180a48fe-4c4c-45b4-b2ba-dee80c6f9a92\SynchronizationData.store
+
+!ENTRY com._1c.g5.v8.dt.platform.services.core 1 0 2023-06-09 09:23:10.900
+!MESSAGE Waiting for synchronization completed.
+
+!ENTRY com._1c.g5.v8.dt.platform.services.core 1 0 2023-06-09 09:23:10.900
+!MESSAGE Infobase syncrhonization tracking BM model BaseSale started
